@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciotas.github.io/snippets-z1hqno/sitemap.xml
